@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asobini
-- 👀 I’m interested in mobile app development under Ionic framework.
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on coding in Ionic and Zend frameworks
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on coding.
 - 📫 You can reach me via email at adnan.memic@gmail.com
 
 <!---
